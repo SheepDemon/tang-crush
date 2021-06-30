@@ -1,0 +1,18 @@
+const CONFIG = {
+    introTitle: 'Này bạn gì đó cute oiww!',
+    introDesc: `Tớ có điều mún nói cậu phải trả lời
+    thật lòng nhaaaaa:33
+    Cậu yêu tớ phải không nào ._.`,
+    btnIntro: 'cậu mà ko trả lời thật lòng là làm ny tớ suốt đời nhé<33',
+    title: 'Phải chăng là cậu yêu tôi từ lúc chúng ta nt rồi😙',
+    desc: 'Phải chăng chăng cậu thích tui:33 ',
+    btnYes: 'yêu ơi là yêu <33',
+    btnNo: 'Không, cậu mơ à :3',
+    question:'nói cho tớ lí do mà cậu thích tớ ik🙄',
+    btnReply: 'tại tớ yêu cậu ❤',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'chúc cậu 1 ngày mới vui vẻ khi có tớ nhé😳.',
+    btnAccept: 'vâng cậu cũng có 1 ngày vui vẻ khi tớ làm ny cậu nhé <3',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
